@@ -1,0 +1,5 @@
+fastapi[all]
+pandas
+pyodbc
+sqlalchemy
+uvicorn
